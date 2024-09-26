@@ -1,1 +1,2 @@
-pipelined MIPS32 processor
+Pipelined 32-bit MIPS Processor
+RTL Design & test bench
