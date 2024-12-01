@@ -1,4 +1,5 @@
 module pipe_MIPS32 (clk1, clk2);
+//Behavioral model
 
 input clk1, clk2; //2 phase clock
 
